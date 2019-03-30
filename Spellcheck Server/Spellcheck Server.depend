@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1553944286 source:/home/matt/Spellcheck Server/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<errno.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<sys/wait.h>
+	<signal.h>
+	<netdb.h>
+
