@@ -13,3 +13,20 @@
 	<signal.h>
 	<netdb.h>
 
+1554103302 source:/home/matt/Desktop/Spellcheck Server/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<errno.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<sys/wait.h>
+	<signal.h>
+	<netdb.h>
+	<pthread.h>
+	<semaphore.h>
+	<unistd.h>
+
